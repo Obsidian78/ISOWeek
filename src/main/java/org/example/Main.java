@@ -1,8 +1,6 @@
 package org.example;
-import java.util.TimeZone;
+//import java.util.TimeZone;
 
 public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello world!");
-    }
+    public static void main(String[] args) {        System.out.println("Main.java Test!");    }
 }
